@@ -16,7 +16,7 @@ seaborn
 tensorboard
 tqdm
 urllib3
-torch
+torch==2.4
 torchvision
 torchaudio
 gensim
